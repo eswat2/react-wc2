@@ -2675,9 +2675,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001035, caniuse-lite@^1.0.30001039, caniuse-lite@^1.0.30001043:
-  version "1.0.30001048"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001048.tgz#4bb4f1bc2eb304e5e1154da80b93dee3f1cf447e"
-  integrity sha512-g1iSHKVxornw0K8LG9LLdf+Fxnv7T1Z+mMsf0/YYLclQX4Cd522Ap0Lrw6NFqHgezit78dtyWxzlV2Xfc7vgRg==
+  version "1.0.30001050"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001050.tgz#11218af4b6b85dc1089536f31e10e3181e849e71"
+  integrity sha512-OvGZqalCwmapci76ISq5q4kuAskb1ebqF3FEQBv1LE1kWht0pojlDDqzFlmk5jgYkuZN7MNZ1n+ULwe/7MaDNQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -3677,10 +3677,10 @@ dir-glob@2.0.0:
     arrify "^1.0.1"
     path-type "^3.0.0"
 
-direflow-component@3.4.10:
-  version "3.4.10"
-  resolved "https://registry.yarnpkg.com/direflow-component/-/direflow-component-3.4.10.tgz#9602471d8afe434c91f3f0d4f4fc48dc7a123737"
-  integrity sha512-aV+VW4SP3BN1LRXBRZmxYMhgSbfuS2Go0kGjoRpeBnHgT3yRxBkuHAIqr//ewcjkLByUecNFKy7PNyFiVC7inA==
+direflow-component@3.4.11:
+  version "3.4.11"
+  resolved "https://registry.yarnpkg.com/direflow-component/-/direflow-component-3.4.11.tgz#f88d7bc26eb72223ae65ffd9b8979986d8ca3c65"
+  integrity sha512-Cv/yWahTd6GG5/l6sydND6DQE9r0kyNu8P3hRb0kAVB+Ajsc371adQQDYIcdANEKDWHh8QnXxs98q6OwdMpoUw==
   dependencies:
     chalk "2.4.2"
     lodash.clonedeep "4.5.0"
@@ -3688,10 +3688,10 @@ direflow-component@3.4.10:
     react-lib-adler32 "^1.0.3"
     webfontloader "1.6.28"
 
-direflow-scripts@3.4.10:
-  version "3.4.10"
-  resolved "https://registry.yarnpkg.com/direflow-scripts/-/direflow-scripts-3.4.10.tgz#80782aef912513b419ebe80ab6aa2bb9af8e60b8"
-  integrity sha512-Nw8AGfV6jnjDpeVg4gXRDBODMvIGwuuyf9VfCxYqnXNgEJR1O1fDjqaMp8uSAkz1R0gWK7zB3E/oZz98f0MatQ==
+direflow-scripts@3.4.11:
+  version "3.4.11"
+  resolved "https://registry.yarnpkg.com/direflow-scripts/-/direflow-scripts-3.4.11.tgz#c2f6c637815e4946bb8c9c9e083d0604bdc5cb99"
+  integrity sha512-CN+6HLlG66iu6ns1QVNXu9EAWKzUNnkUHC2GBKOIZhr/69xMdmDZx4+DPsfMBXBZO5p+3bY9dXwMbiie6hN3iQ==
   dependencies:
     "@svgr/webpack" "4.3.2"
     esm "3.2.25"
@@ -8796,9 +8796,9 @@ postcss@7.0.21:
     supports-color "^6.1.0"
 
 postcss@^7, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.23, postcss@^7.0.27, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.28"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.28.tgz#d349ced7743475717ba91f6810efb58c51fb5dbb"
-  integrity sha512-YU6nVhyWIsVtlNlnAj1fHTsUKW5qxm3KEgzq2Jj6KTEFOTK8QWR12eIDvrlWhiSTK8WIBFTBhOJV4DY6dUuEbw==
+  version "7.0.29"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.29.tgz#d3a903872bd52280b83bce38cdc83ce55c06129e"
+  integrity sha512-ba0ApvR3LxGvRMMiUa9n0WR4HjzcYm7tS+ht4/2Nd0NLtHpPIH77fuB9Xh1/yJVz9O/E/95Y/dn8ygWsyffXtw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -9743,9 +9743,9 @@ sanitize.css@^10.0.0:
   integrity sha512-vTxrZz4dX5W86M6oVWVdOVe72ZiPs41Oi7Z6Km4W5Turyz28mrXSJhhEBZoRtzJWIv3833WKVwLSDWWkEfupMg==
 
 sass-graph@^2.2.4:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/sass-graph/-/sass-graph-2.2.4.tgz#13fbd63cd1caf0908b9fd93476ad43a51d1e0b49"
-  integrity sha1-E/vWPNHK8JCLn9k0dq1DpR0eC0k=
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/sass-graph/-/sass-graph-2.2.6.tgz#09fda0e4287480e3e4967b72a2d133ba09b8d827"
+  integrity sha512-MKuEYXFSGuRSi8FZ3A7imN1CeVn9Gpw0/SFJKdL1ejXJneI9a5rwlEZrKejhEFAA3O6yr3eIyl/WuvASvlT36g==
   dependencies:
     glob "^7.0.0"
     lodash "^4.0.0"
