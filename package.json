@@ -16,8 +16,8 @@
     "devolution": "2.3.1",
     "direflow-component": "3.5.1",
     "direflow-scripts": "3.5.1",
-    "react": "17.0.0",
-    "react-dom": "17.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
     "react-scripts": "3.4.4"
   },
   "devDependencies": {
@@ -26,7 +26,7 @@
     "eslint-plugin-react": "7.21.5",
     "jest-environment-jsdom-fourteen": "1.0.1",
     "react-app-rewired": "2.1.6",
-    "react-test-renderer": "17.0.0",
+    "react-test-renderer": "17.0.1",
     "to-string-loader": "1.1.6",
     "webpack-cli": "4.1.0"
   },
