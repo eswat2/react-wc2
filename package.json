@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "devolution": "2.3.1",
-    "direflow-component": "3.5.2",
-    "direflow-scripts": "3.5.2",
+    "direflow-component": "3.5.3",
+    "direflow-scripts": "3.5.3",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-scripts": "4.0.2"
